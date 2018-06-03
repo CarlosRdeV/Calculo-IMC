@@ -1,10 +1,7 @@
 
-
 package calculoimc;
 
 
-public class CalculoIMC {
-
-
+public class Usuario {
     
 }
