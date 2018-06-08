@@ -12,7 +12,7 @@ public class Aplicacion {
         CalculoIMC c= new CalculoIMC();
         c.setUsuario1(u);
         
-          System.out.println(c.AplicarFormula());
+          System.out.println(""+c.AplicarFormula());
         
     }
 }
